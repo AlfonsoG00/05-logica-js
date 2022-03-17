@@ -1,0 +1,25 @@
+.a1 {
+    font-size: 32px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-style: inherit;
+    display: flex;
+    justify-content: center;
+}
+.a2 {
+    font-size: 16px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.a3 { 
+    font-size: 15px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; margin: 8px;
+    font-style: inherit; font-weight: bold; color: white;
+}
+
+.a4 {
+    background-color: rgb(233, 128, 193); 
+    display: flex;
+    justify-content: space-around; padding: 0px; border: 0px; margin: 0px; 
+}
+.a5 {
+    font-size: 24px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
